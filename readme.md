@@ -4,11 +4,11 @@
 
 - First of all, clone this repo
 
-      !git clone https://github.com/zuruoke/watermark-removal
+      !git clone https://github.com/zuruoke/ayrksaw-go-cli-app.git
 
 - Change Directory to the repo
 
-      !cd watermark-removal
+      !cd ayrksaw-go-cli-app
 
 - Compile the Go binary
 
